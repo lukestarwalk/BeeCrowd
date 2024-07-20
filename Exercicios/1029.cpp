@@ -5,7 +5,6 @@ const int MAX = 40;
 int tabela[MAX];
 int resultado[MAX];
 
-
 int calls(int n){
     if (n == 0) return 1;
     if (n == 1) return 1;
@@ -39,6 +38,5 @@ int main(){
         cout << "fib(" << n << ") = " << calls(n) - 1 << " calls = " << result(n) << endl;
 
     }
-    
     return 0;
 }
