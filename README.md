@@ -2,4 +2,4 @@
 
  Alguns Exercícios Resolvidos da Plataforma BeeCrowd
 
- By: Lukeny da Silva
+ By: Lukeny  de O. J. da Silva
