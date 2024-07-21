@@ -1,5 +1,5 @@
 # BeeCrowd Exercices
 
- Exercícios Resolvidos da Plataforma BeeCrowd
+ Alguns Exercícios Resolvidos da Plataforma BeeCrowd
 
- By: Lukeny da Silva AKA Padrinho
+ By: Lukeny da Silva
