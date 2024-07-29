@@ -23,6 +23,7 @@ int main(){
             else if (abs((a.first)%2) == 0 && abs((b.first)%2) == 0) return (a.first) < (b.first);
             return abs((a.first)%2) > abs((b.first)%2);
         });
+        
         cout << n << " " << m << endl;
         for (auto p: v){
             cout << p.first << endl;
