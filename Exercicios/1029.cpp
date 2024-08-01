@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-
 const int MAX = 40;
+
 int tabela[MAX];
 int resultado[MAX];
 
