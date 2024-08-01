@@ -24,6 +24,7 @@ int result(int n){
     resultado[n] = result(n-1) + result(n-2);
     return resultado[n];
 }
+
 int main(){
     for (int i = 0; i < MAX; i++){
         tabela[i] = -1;
